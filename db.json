@@ -1,57 +1,67 @@
 {
-    "productList": [{
-            "productName": "Apple",
-            "category": "Fruits",
-            "freshness": "Brand New",
-            "price": 350,
-            "comment": "fresh fruit",
-            "date": "2022-05-17T23:00:00.000Z",
-            "id": 1
-        },
-        {
-            "productName": "Iphone 13",
-            "category": "Phones",
-            "freshness": "Brand New",
-            "price": 1240,
-            "comment": "brand new product",
-            "date": "2022-05-23T23:00:00.000Z",
-            "id": 2
-        },
-        {
-            "productName": "Apple WristWatch",
-            "category": "Wears",
-            "freshness": "Second Hand",
-            "price": 300,
-            "comment": "uncommon product",
-            "date": "2022-05-16T23:00:00.000Z",
-            "id": 3
-        },
-        {
-            "productName": "Carrot",
-            "category": "Fruits",
-            "freshness": "Refurbished",
-            "price": 5,
-            "comment": "fresh one and very sweet",
-            "date": "2022-05-20T23:00:00.000Z",
-            "id": 4
-        },
-        {
-            "productName": "Hp Laptop",
-            "category": "Computer",
-            "freshness": "Brand New",
-            "price": 786,
-            "comment": "good product and eligible",
-            "date": "2021-06-20T23:00:00.000Z",
-            "id": 5
-        },
-        {
-            "productName": "Dstv",
-            "category": "Electronics",
-            "freshness": "Second Hand",
-            "price": 14,
-            "comment": "the useful one",
-            "date": "2022-01-10T23:00:00.000Z",
-            "id": 6
-        }
-    ]
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 353,
+      "comment": "fresh fruit",
+      "date": "2022-05-17T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Iphone 13",
+      "category": "Phones",
+      "freshness": "Brand New",
+      "price": 1240,
+      "comment": "brand new product",
+      "date": "2022-05-23T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple WristWatch",
+      "category": "Wears",
+      "freshness": "Second Hand",
+      "price": 300,
+      "comment": "uncommon product",
+      "date": "2022-05-16T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Carrot",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 5,
+      "comment": "fresh one and very sweet",
+      "date": "2022-05-20T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Hp Laptop",
+      "category": "Computer",
+      "freshness": "Brand New",
+      "price": 786,
+      "comment": "good product and eligible",
+      "date": "2021-06-20T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Dstv",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 14,
+      "comment": "the useful one",
+      "date": "2022-01-10T23:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "samsung",
+      "category": "Phones",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "its new",
+      "date": "2022-05-17T23:00:00.000Z",
+      "id": 7
+    }
+  ]
 }
